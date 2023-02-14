@@ -1,6 +1,6 @@
 # web-scraping
 This is a web scraping training exercise, a work in progress which main goal is learning by doing.
-The scraped web is http://www.buscocolegio.com a Spanish website that search and recommend schools based on a variety of filters.
+The scraped web is http://www.buscocolegio.com a spanish website that search and recommend schools based on a variety of filters.
 
 The total scraped data is 40+ datapoints from every school (when available) as diverse as:
 - name and logo
