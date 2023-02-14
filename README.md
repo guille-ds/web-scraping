@@ -9,3 +9,5 @@ The total scraped data is 40+ datapoints from every school (when available) as d
 - number of students, courses, sports, activities, facilities, exams, average marks, reviews, comments...
 
 All the data is collected and organized in a json.
+
+Selenium + Beautiful Soup + Python
