@@ -1,1 +1,2 @@
-.ipynb
+# Ignora todos los jupyter notebook
+*.ipynb
