@@ -1,4 +1,4 @@
-# web-scraping
+# web-scraping 🕷️ 🥷 🕵️‍♂️ 
 This is a web scraping training exercise, a work in progress which main goal is learning by doing.
 The scraped web is http://www.buscocolegio.com, a spanish website that searches and recommends schools based on a variety of filters.
 
